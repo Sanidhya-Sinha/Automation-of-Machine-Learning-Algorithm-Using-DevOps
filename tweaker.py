@@ -23,7 +23,7 @@ train_y = npu.to_categorical(train_y)
 
 accuracy= open("accuracy.txt","r")
 accuracy = float(accuracy.read())
-
+accuracy = accuracy *100
 #Initials
 neurons = 10
 epochs = 1
