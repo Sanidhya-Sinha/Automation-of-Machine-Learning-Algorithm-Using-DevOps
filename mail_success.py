@@ -6,7 +6,7 @@ s.login("sanidhyasinha2000@gmail.com", "welcomedam")
 
 
     # message
-message_success = "Achieved your desired accuracy without tweeking . Congrats :)"
+message_success = "Achieved your desired accuracy without tweeking . Congrats "
 
 
     # sending the mail
