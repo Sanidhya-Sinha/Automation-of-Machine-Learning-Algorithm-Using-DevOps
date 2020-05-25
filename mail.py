@@ -6,7 +6,7 @@ s.login("sanidhyasinha2000@gmail.com", "welcomedam")
 
 
     # message
-message = "Your accuracy is less than 90% :("
+message = "Your accuracy is less than 90% .Try again"
 
 
     # sending the mail
