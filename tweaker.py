@@ -75,7 +75,7 @@ s.login("sanidhyasinha2000@gmail.com", "welcomedam")
 
 
     # message
-message_success = "Achieved your desired accuracy . Congrats :)"
+message_success = "Achieved your desired accuracy . Congrats "
 
 
     # sending the mail
